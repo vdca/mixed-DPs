@@ -1,0 +1,955 @@
+participant	trial	det	noun	lemma	target_lemma	noun.end	last_a	root.end	es.gender	eu.syl.num	es	en	detGender	detNumber	lemma_phon_gender	noun_phon_gender	analogical	phon_lemma	phon_noun	default_f	default_m	repetition	fluidgen
+1	2	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+1	5	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+1	6	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	1	
+1	9	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	1	
+1	10	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+1	14	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+1	18	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+1	22	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+1	25	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+1	28	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+1	33	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+1	34	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+1	35	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+1	36	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+1	39	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+1	40	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+1	41	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+1	42	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+1	44	la	ur-tanta	ur-tanta	tanta	a	1	a	f	3	gota	drop	f	s	f	f	1	1	1	1	0	0	
+1	46	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+1	48	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+1	49	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+1	50	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+1	51	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+1	53	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+1	54	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+1	56	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+1	57	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+1	58	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+10	1	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+10	3	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	0	
+10	3	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+10	4	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+10	5	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+10	6	el	lepo	lepo	lepo	o	0	o	m	2	cuello	neck	m	s	m	m	1	1	1	0	1	0	
+10	7	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+10	10	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+10	11	la	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	f	s	m	m	1	0	0	1	0	0	
+10	12	la	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	f	s	m	m	1	0	0	1	0	0	
+10	13	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+10	16	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+10	17	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+10	18	el	ogi	ogi	ogi	i	0	i	m	2	pan	bread	m	s	m	m	1	1	1	0	1	1	
+10	19	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	1	
+10	20	la	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	f	s	m	m	1	0	0	1	0	0	
+10	21	el	hosto	hosto	hosto	o	0	o	f	2	hoja	leaf	m	s	m	m	0	1	1	0	1	0	
+10	22	el	malko	malko	malko	o	0	o	f	2	lágrima	tear	m	s	m	m	0	1	1	0	1	0	
+10	23	la	leiho	leiho	leiho	o	0	o	f	2	ventana	window	f	s	m	m	1	0	0	1	0	0	
+10	24	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+10	26	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	0	
+10	27	la	gezi	gezi	gezi	i	0	i	f	2	flecha	arrow	f	s	m	m	1	0	0	1	0	0	
+10	29	la	ezti	ezti	ezti	i	0	i	f	2	miel	honey	f	s	m	m	1	0	0	1	0	0	
+10	30	el	komun	komun	komun	n	0	n	m	2	cuarto de baño	toilet	m	s	m	m	1	1	1	0	1	1	*
+10	31	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	1	*
+10	32	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	0	
+10	33	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+10	34	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+10	35	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+10	36	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	0	
+2	1	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	1	
+2	2	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+2	3	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	1	
+2	3	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	1	
+2	4	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	1	
+2	4	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	1	
+2	6	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	1	*
+2	7	el	komun	komun	komun	n	0	n	m	2	cuarto de baño	toilet	m	s	m	m	1	1	1	0	1	1	
+2	7	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+2	8	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	1	
+2	8	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	1	
+2	9	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	
+2	10	el	eguzki-a	eguzki	uda	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	1	
+2	11	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	1	
+2	11	el	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	m	s	m	f	0	1	0	0	1	0	
+2	13	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+2	14	la	zartagi-a	zartagin	zartagin	a	1	n	f	3	sartén	pan	f	s	m	f	1	0	1	1	0	0	
+2	15	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	*
+2	15	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	1	
+2	16	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	*
+2	17	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	*
+2	18	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	
+2	19	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+2	21	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	1	
+2	22	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	1	
+2	23	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	1	
+2	23	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	1	*
+2	24	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	1	*
+2	25	el	ur-tanta	ur-tanta	tanta	a	1	a	f	3	gota	drop	m	s	f	f	0	0	0	0	1	0	
+2	26	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	
+2	26	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+2	27	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+2	28	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+2	29	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	1	
+2	29	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	1	
+2	30	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+2	31	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+2	32	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+2	33	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+2	35	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+2	37	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	
+2	38	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+2	43	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	1	*
+3	10	el	gona	gona	gona	a	1	a	f	2	falda	skirt	m	s	f	f	0	0	0	0	1	0	
+3	12	el	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	m	s	m	f	0	1	0	0	1	1	*
+3	13	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	*
+3	14	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	1	
+3	15	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+3	16	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+3	17	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+3	18	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+3	19	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+3	20	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+3	22	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+3	23	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+3	24	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+3	25	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+3	27	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+3	28	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+3	29	la	malko-a	malko	tanta	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	1	
+3	31	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	1	
+3	32	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+3	33	la	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	f	s	m	m	1	0	0	1	0	0	
+3	34	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+3	35	el	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	m	s	m	f	1	1	0	0	1	0	
+3	36	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+3	37	una	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+3	38	un	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+3	40	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+4	1	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+4	3	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+4	4	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+4	5	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	
+4	6	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	
+4	6	el	begi-a	begi	bekain	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	1	*
+4	7	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	
+4	7	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+4	8	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	
+4	8	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+4	9	la	begi-a	begi	malko	a	1	i	m	2	ojo	eye	f	s	m	f	0	0	1	1	0	1	*
+4	10	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+4	11	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+4	12	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+4	13	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+4	14	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+4	15	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+4	17	la	pospolo-a	pospolo	pospolo	a	1	o	f	3	cerilla	match	f	s	m	f	1	0	1	1	0	0	
+4	18	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+4	19	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+4	20	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+4	22	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+4	23	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+4	25	una	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+4	26	una	malko-a	malko	tanta	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+4	28	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+4	29	la	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	f	s	m	m	1	0	0	1	0	0	
+4	30	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+4	32	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+4	33	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+4	34	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+5	1	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+5	3	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+5	4	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+5	8	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+5	10	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	0	
+5	11	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	0	
+5	13	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+5	18	la	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	f	s	m	m	1	0	0	1	0	0	
+5	19	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+5	21	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+5	23	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+5	24	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+5	25	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+5	26	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+5	28	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+5	29	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+5	31	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+5	32	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+5	33	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+5	34	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+5	35	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+5	36	el	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	m	s	m	f	0	1	0	0	1	0	
+5	39	el	galtza	galtza	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+5	40	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+5	41	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+5	42	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+5	44	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+6	1	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	1	
+6	2	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	1	
+6	2	la	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	f	s	m	m	1	0	0	1	0	0	
+6	3	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+6	6	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	1	*
+6	7	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	1	*
+6	8	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	0	
+6	9	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	1	*
+6	12	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	1	*
+6	12	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	1	*
+6	14	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	1	*
+6	14	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	1	
+6	15	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+6	16	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+6	17	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+6	18	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+6	19	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+6	20	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	1	
+6	20	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+6	21	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+6	22	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+6	23	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+6	24	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+6	25	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+6	26	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+6	27	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+6	28	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	0	
+6	29	el	galtza	galtza	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+6	30	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+6	31	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+6	32	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+6	33	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+6	34	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+7	4	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+7	6	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+7	11	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	1	
+7	14	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+7	16	el	pospolo-a	pospolo	pospolo	a	1	o	f	3	cerilla	match	m	s	m	f	0	1	0	0	1	0	
+7	20	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+7	21	el	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	m	s	m	f	0	1	0	0	1	0	
+7	23	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+7	24	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+7	25	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+7	29	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+7	30	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+7	31	el	begi-a	begi	bekain	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	1	
+7	32	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+7	33	el	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	m	s	m	f	0	1	0	0	1	0	
+7	34	el	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	m	s	m	f	0	1	0	0	1	0	
+7	36	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+7	38	la	laino-a	laino	euri	a	1	o	f	2	niebla	fog	f	s	m	f	1	0	1	1	0	0	
+7	39	la	txanpoñ-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+7	41	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+7	42	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+8	1	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+8	3	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	0	
+8	4	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+8	5	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+8	6	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+8	7	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	0	
+8	9	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+8	12	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+8	14	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+8	15	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	1	
+8	16	el	pospolo-a	pospolo	pospolo	a	1	o	f	3	cerilla	match	m	s	m	f	0	1	0	0	1	1	
+8	17	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	0	
+8	18	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+8	20	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	0	
+8	21	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+8	22	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+8	23	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+8	24	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+8	25	el	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	m	s	m	f	1	1	0	0	1	0	
+8	26	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+8	27	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+8	28	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+8	29	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+8	30	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+8	31	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+8	32	la	galtza	galtza	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+8	33	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+8	34	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+8	35	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+8	36	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+8	37	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+8	38	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+9	2	la	euri	euri	euri	i	0	i	f	2	lluvia	rain	f	s	m	m	1	0	0	1	0	0	
+9	3	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	0	
+9	4	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+9	6	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+9	7	el	lepo	lepo	lepo	o	0	o	m	2	cuello	neck	m	s	m	m	1	1	1	0	1	0	
+9	8	la	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+9	9	el	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+9	10	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+9	11	la	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	f	s	m	m	1	0	0	1	0	0	
+9	12	la	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	f	s	m	m	1	0	0	1	0	0	
+9	13	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+9	16	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+9	17	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+9	18	el	ogi	ogi	ogi	i	0	i	m	2	pan	bread	m	s	m	m	1	1	1	0	1	0	
+9	19	la	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	f	s	m	m	1	0	0	1	0	0	
+9	22	el	malko	malko	malko	o	0	o	f	2	lágrima	tear	m	s	m	m	0	1	1	0	1	0	
+9	23	la	leiho	leiho	leiho	o	0	o	f	2	ventana	window	f	s	m	m	1	0	0	1	0	0	
+9	24	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+9	25	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	0	
+9	26	la	gezi	gezi	gezi	i	0	i	f	2	flecha	arrow	f	s	m	m	1	0	0	1	0	0	
+9	27	la	ezti	ezti	ezti	i	0	i	f	2	miel	honey	f	s	m	m	1	0	0	1	0	0	
+9	28	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+9	29	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	0	
+9	31	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+9	32	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+9	33	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+9	34	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	0	
+9	35	la	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	f	s	m	m	1	0	0	1	0	0	
+A1	2	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	
+A1	4	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	
+A1	5	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	
+A1	6	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+A1	7	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	1	*
+A1	8	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	1	
+A1	10	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	1	
+A1	13	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A1	14	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	1	*
+A1	15	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	1	*
+A1	16	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	1	*
+A1	17	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	1	
+A1	18	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	
+A1	19	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	
+A1	20	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	
+A1	21	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	1	*
+A1	22	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+A1	23	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	1	
+A1	24	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+A1	25	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+A1	26	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	1	
+A1	27	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	1	
+A1	28	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+A1	29	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	1	
+A1	30	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	1	
+A1	31	el	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	m	s	m	f	0	1	0	0	1	1	*
+A1	32	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	1	*
+A1	33	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+A1	34	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A1	35	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	1	
+A1	36	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	1	*
+A1	37	la	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	f	s	m	m	0	0	0	1	0	1	*
+A1	38	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	1	
+A1	39	el	ogi	ogi	ogi	i	0	i	m	2	pan	bread	m	s	m	m	1	1	1	0	1	0	
+A1	40	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	1	
+A1	41	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	1	
+A1	42	la	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	f	s	m	m	1	0	0	1	0	0	
+A1	43	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	1	
+A1	44	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	1	
+A1	45	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+A1	46	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	1	
+A1	47	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	1	
+A1	48	el	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	m	s	m	m	0	1	1	0	1	1	*
+A1	49	la	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	f	s	m	m	1	0	0	1	0	1	*
+A1	50	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+A1	51	el	pospolo	pospolo	poxpolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A1	52	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	1	
+A1	53	el	komun	komun	komun	n	0	n	m	2	cuarto de baño	toilet	m	s	m	m	1	1	1	0	1	1	
+A1	54	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+A1	56	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	1	
+A1	57	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	1	
+A1	58	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+A1	60	el	fraka	praka	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+A1	61	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+A10	2	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+A10	4	el	kirten	kirten	kirten	n	0	n	m	2	mango	handle	m	s	m	m	1	1	1	0	1	0	
+A10	5	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A10	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+A10	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A10	8	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+A10	9	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+A10	10	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+A10	11	el	tanta	tanta	tanta	a	1	a	f	2	gota	drop	m	s	f	f	0	0	0	0	1	0	
+A10	12	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+A10	13	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+A10	14	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	0	
+A10	17	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+A10	18	el	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	m	s	m	m	0	1	1	0	1	0	
+A10	19	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A10	20	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A10	21	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A10	22	el	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	m	s	m	f	0	1	0	0	1	0	
+A10	23	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+A10	24	el	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	m	s	m	f	0	1	0	0	1	0	
+A10	25	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+A10	26	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+A10	27	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+A10	28	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+A10	30	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A10	31	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A10	32	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+A10	33	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+A11	2	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+A11	3	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+A11	4	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+A11	5	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A11	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+A11	8	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A11	9	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+A11	10	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	1	
+A11	11	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	1	
+A11	12	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+A11	13	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	1	*
+A11	14	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	1	*
+A11	15	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	1	
+A11	16	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+A11	18	el	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	m	s	m	f	0	1	0	0	1	1	*
+A11	19	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	*
+A11	20	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	*
+A11	21	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+A11	22	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+A11	23	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+A11	24	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A11	25	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A11	26	el	soineko	soineko	gona	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	1	
+A11	29	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	1	
+A11	30	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	1	
+A11	31	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+A11	32	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	*
+A11	33	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	1	*
+A11	34	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+A11	36	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	1	*
+A11	37	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	1	*
+A11	38	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	1	*
+A11	39	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	1	*
+A11	40	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	1	*
+A11	41	el	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+A11	42	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+A11	43	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+A11	45	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A11	46	el	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	m	s	m	f	1	1	0	0	1	0	
+A11	47	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	1	*
+A11	49	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	1	*
+A11	50	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	1	*
+A11	51	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+A2	1	el	hosto	hosto	hosto	o	0	o	f	2	hoja	leaf	m	s	m	m	0	1	1	0	1	0	
+A2	2	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	0	
+A2	3	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+A2	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A2	5	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	1	*
+A2	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	1	*
+A2	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A2	9	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	0	
+A2	11	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+A2	13	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	1	*
+A2	14	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	1	*
+A2	14	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	1	*
+A2	15	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+A2	16	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+A2	17	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+A2	18	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+A2	19	el	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	m	s	m	f	0	1	0	0	1	0	
+A2	20	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A2	21	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A2	22	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A2	26	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+A2	27	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	1	
+A2	27	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	1	
+A2	28	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+A2	29	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	1	
+A2	29	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	1	
+A2	30	el	lepo	lepo	lepo	o	0	o	m	2	cuello	neck	m	s	m	m	1	1	1	0	1	0	
+A2	31	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+A2	32	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A2	33	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A2	34	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+A3	2	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+A3	3	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	1	
+A3	4	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	1	
+A3	5	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A3	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+A3	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A3	8	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+A3	9	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+A3	10	el	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	m	s	m	f	0	1	0	0	1	0	
+A3	12	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+A3	13	el	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	m	s	m	f	0	1	0	0	1	0	
+A3	14	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	0	
+A3	15	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+A3	16	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	1	
+A3	17	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+A3	18	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+A3	19	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A3	20	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A3	21	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	1	
+A3	22	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+A3	23	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+A3	24	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+A3	25	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+A3	26	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	0	
+A3	27	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+A3	28	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	0	
+A3	29	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+A3	30	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A3	31	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A3	32	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+A3	33	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+A3	35	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+A4	1	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+A4	2	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+A4	3	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	0	
+A4	4	el	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	m	s	f	f	0	0	0	0	1	0	
+A4	5	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	1	
+A4	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	1	
+A4	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A4	8	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+A4	9	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+A4	12	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+A4	14	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+A4	15	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+A4	16	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	0	
+A4	17	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+A4	18	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+A4	19	el	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	m	s	m	m	0	1	1	0	1	0	
+A4	20	del	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	m	s	m	m	0	1	1	0	1	0	
+A4	25	el	gezi	gezi	gezi	i	0	i	f	2	flecha	arrow	m	s	m	m	0	1	1	0	1	0	
+A4	26	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A4	27	el	malko	malko	malko	o	0	o	f	2	lágrima	tear	m	s	m	m	0	1	1	0	1	0	
+A4	28	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+A4	29	la	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	f	s	m	m	1	0	0	1	0	0	
+A4	30	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	1	
+A4	31	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	1	
+A4	32	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	1	
+A4	33	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	1	
+A4	34	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+A4	35	el	lepo	lepo	lepo	o	0	o	m	2	cuello	neck	m	s	m	m	1	1	1	0	1	0	
+A4	36	el	ezpain	ezpain	ezpain	n	0	n	m	2	labio	lip	m	s	m	m	1	1	1	0	1	0	
+A4	37	el	ezti	ezti	ezti	i	0	i	f	2	miel	honey	m	s	m	m	0	1	1	0	1	0	
+A4	38	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A4	40	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+A5	2	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+A5	3	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+A5	4	el	kirten	kirten	kirten	n	0	n	m	2	mango	handle	m	s	m	m	1	1	1	0	1	0	
+A5	5	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A5	7	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	0	
+A5	8	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A5	9	la	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	f	s	m	f	0	0	1	1	0	0	
+A5	10	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	0	
+A5	11	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+A5	12	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+A5	13	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+A5	14	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+A5	15	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+A5	16	la	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	f	s	m	m	0	0	0	1	0	0	
+A5	17	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+A5	18	el	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	m	s	m	m	0	1	1	0	1	0	
+A5	19	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A5	20	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A5	21	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A5	22	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+A5	23	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+A5	24	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+A5	25	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+A5	26	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	0	
+A5	27	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+A5	28	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	0	
+A5	29	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+A5	30	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A5	31	la	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	f	s	m	m	1	0	0	1	0	0	
+A5	32	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+A5	33	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+A5	34	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+A6	1	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+A6	2	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+A6	3	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	0	
+A6	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A6	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A6	8	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+A6	9	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+A6	10	el	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	m	s	m	f	0	1	0	0	1	0	
+A6	12	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+A6	13	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+A6	14	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+A6	15	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+A6	16	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+A6	17	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+A6	18	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+A6	20	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A6	21	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+A6	22	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+A6	23	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+A6	24	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+A6	25	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	0	
+A6	26	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+A6	27	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+A6	29	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A6	30	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A6	31	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+A6	32	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+A7	1	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+A7	3	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	0	
+A7	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A7	5	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	0	
+A7	6	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A7	7	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+A7	8	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+A7	9	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+A7	10	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+A7	11	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	1	*
+A7	12	el	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	m	s	m	f	0	1	0	0	1	1	*
+A7	13	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+A7	14	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	1	*
+A7	15	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	1	*
+A7	16	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	1	
+A7	17	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	1	
+A7	19	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	1	
+A7	20	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	1	
+A7	21	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+A7	22	el	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	m	s	m	f	0	1	0	0	1	1	*
+A7	23	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	1	*
+A7	24	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	1	*
+A7	26	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A7	27	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A7	28	el	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	m	s	m	f	0	1	0	0	1	0	
+A7	29	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	
+A7	31	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	
+A7	33	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	
+A7	35	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+A7	36	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+A7	37	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+A7	38	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+A7	40	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+A7	42	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A7	43	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+A7	44	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+A7	45	el	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+A7	46	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+A8	1	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+A8	5	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+A8	6	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	0	
+A8	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A8	8	la	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	f	s	m	f	0	0	1	1	0	0	
+A8	9	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	0	
+A8	10	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+A8	11	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+A8	12	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	1	
+A8	13	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+A8	14	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+A8	15	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+A8	16	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+A8	17	la	udara	udara	uda	a	1	a	m	3	verano	summer	f	s	f	f	0	1	1	1	0	0	
+A8	18	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+A8	19	el	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	m	s	m	f	0	1	0	0	1	0	
+A8	20	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+A8	21	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+A8	22	el	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	m	s	m	f	0	1	0	0	1	0	
+A8	23	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+A8	24	el	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	m	s	m	f	0	1	0	0	1	0	
+A8	25	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+A8	26	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+A8	27	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+A8	28	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+A8	29	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+A8	30	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+A8	31	el	pospolo-a	pospolo	pospolo	a	1	o	f	3	cerilla	match	m	s	m	f	0	1	0	0	1	0	
+A8	32	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+A8	33	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+A8	34	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+A9	1	el	hosto	hosto	hosto	o	0	o	f	2	hoja	leaf	m	s	m	m	0	1	1	0	1	0	
+A9	2	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	0	
+A9	3	el	kirten	kirten	kirten	n	0	n	m	2	mango	handle	m	s	m	m	1	1	1	0	1	0	
+A9	4	el	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	m	s	f	f	0	0	0	0	1	1	*
+A9	5	la	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	1	*
+A9	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+A9	8	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+A9	9	el	ogi	ogi	ogi	i	0	i	m	2	pan	bread	m	s	m	m	1	1	1	0	1	0	
+A9	10	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	1	
+A9	11	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	1	
+A9	12	el	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	m	s	m	m	0	1	1	0	1	0	
+A9	15	el	euri	euri	euri	i	0	i	f	2	lluvia	rain	m	s	m	m	0	1	1	0	1	0	
+A9	16	el	leiho	leiho	leiho	o	0	o	f	2	ventana	window	m	s	m	m	0	1	1	0	1	0	
+A9	17	el	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	m	s	m	m	0	1	1	0	1	0	
+A9	18	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+A9	19	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+A9	20	el	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	m	s	m	m	0	1	1	0	1	0	
+A9	21	el	belaun	belaun	belaun	n	0	n	f	2	rodilla	knee	m	s	m	m	0	1	1	0	1	0	
+A9	22	el	gezi	gezi	gezi	i	0	i	f	2	flecha	arrow	m	s	m	m	0	1	1	0	1	0	
+A9	24	el	malko	malko	malko	o	0	o	f	2	lágrima	tear	m	s	m	m	0	1	1	0	1	0	
+A9	25	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+A9	26	el	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	m	s	m	m	0	1	1	0	1	0	
+A9	27	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	0	
+A9	28	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+A9	29	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+A9	33	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+A9	34	el	kumun	komun	komun	n	0	n	m	2	cuarto de baño	toilet	m	s	m	m	1	1	1	0	1	0	
+A9	35	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+B1	1	el	hosto	hosto	hosto	o	0	o	f	2	hoja	leaf	m	s	m	m	0	1	1	0	1	0	
+B1	2	la	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	f	s	m	m	1	0	0	1	0	0	
+B1	3	la	belaun	belaun	belaun	n	0	n	f	2	rodilla	knee	f	s	m	m	1	0	0	1	0	0	
+B1	4	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+B1	5	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	0	
+B1	6	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+B1	7	el	gezi	gezi	gezi	i	0	i	f	2	flecha	arrow	m	s	m	m	0	1	1	0	1	0	
+B1	8	el	lepo	lepo	lepo	o	0	o	m	2	cuello	neck	m	s	m	m	1	1	1	0	1	0	
+B1	9	el	kirten	kirten	kirten	n	0	n	m	2	mango	handle	m	s	m	m	1	1	1	0	1	0	
+B1	10	la	euri	euri	euri	i	0	i	f	2	lluvia	rain	f	s	m	m	1	0	0	1	0	0	
+B1	11	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B1	12	la	ezpain	ezpain	ezpain	n	0	n	m	2	labio	lip	f	s	m	m	0	0	0	1	0	1	*
+B1	13	el	ezpain	ezpain	ezpain	n	0	n	m	2	labio	lip	m	s	m	m	1	1	1	0	1	1	*
+B1	14	la	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B1	15	la	leiho	leiho	leiho	o	0	o	f	2	ventana	window	f	s	m	m	1	0	0	1	0	1	*
+B1	16	el	leiho	leiho	leiho	o	0	o	f	2	ventana	window	m	s	m	m	0	1	1	0	1	1	*
+B1	18	la	malko	malko	malko	o	0	o	f	2	lágrima	tear	f	s	m	m	1	0	0	1	0	0	
+B1	19	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B1	20	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	0	
+B1	21	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B1	22	el	ogi	ogi	ogi	i	0	i	m	2	pan	bread	m	s	m	m	1	1	1	0	1	0	
+B1	23	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	0	
+B1	24	la	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	f	s	m	m	1	0	0	1	0	0	
+B1	25	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+B1	26	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+B1	27	el	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	m	s	m	m	0	1	1	0	1	1	*
+B1	28	la	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	f	s	m	m	1	0	0	1	0	1	*
+B1	29	del	txanpon	txanpon	txanpon	n	0	n	f	2	moneda	coin	m	s	m	m	0	1	1	0	1	1	*
+B1	30	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	1	*
+B1	31	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	1	*
+B1	32	la	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	f	s	m	m	1	0	0	1	0	0	
+B1	33	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	0	
+B1	34	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+B1	36	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+B1	37	el	komun	komun	komun	n	0	n	m	2	cuarto de baño	toilet	m	s	m	m	1	1	1	0	1	0	
+B1	38	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+B2	4	el	kirten	kirten	kirten	n	0	n	m	2	mango	handle	m	s	m	m	1	1	1	0	1	0	
+B2	5	el	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	m	s	f	f	0	0	0	0	1	0	
+B2	6	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	0	
+B2	7	el	soka	soka	soka	a	1	a	f	2	cuerda	rope	m	s	f	f	0	0	0	0	1	0	
+B2	8	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+B2	9	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	0	
+B2	10	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+B2	13	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B2	14	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B2	15	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	0	
+B2	16	el	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	m	s	m	f	1	1	0	0	1	0	
+B2	17	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+B2	18	el	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	m	s	m	m	0	1	1	0	1	0	
+B2	19	el	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	m	s	m	f	0	1	0	0	1	0	
+B2	20	el	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	m	s	m	f	0	1	0	0	1	0	
+B2	21	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B2	22	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+B2	23	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B2	24	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+B2	25	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+B2	26	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+B2	27	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+B2	28	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+B2	30	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+B2	31	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B2	32	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+B2	33	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+B2	34	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+B2	35	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+B3	1	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+B3	2	la	begi-a	begi	begi	a	1	i	m	2	ojo	eye	f	s	m	f	0	0	1	1	0	0	
+B3	3	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+B3	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B3	5	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	0	
+B3	6	el	soka	soka	soka	a	1	a	f	2	cuerda	rope	m	s	f	f	0	0	0	0	1	0	
+B3	7	la	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	f	s	m	f	0	0	1	1	0	0	
+B3	8	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+B3	9	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+B3	10	el	tanta	tanta	tanta	a	1	a	f	2	gota	drop	m	s	f	f	0	0	0	0	1	0	
+B3	11	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B3	12	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B3	13	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+B3	14	la	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	f	s	m	f	0	0	1	1	0	0	
+B3	15	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+B3	16	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+B3	17	el	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	m	s	m	f	0	1	0	0	1	0	
+B3	18	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+B3	19	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B3	20	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+B3	21	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B3	22	el	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	m	s	m	f	0	1	0	0	1	0	
+B3	23	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+B3	24	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+B3	25	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+B3	26	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+B3	27	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+B3	28	el	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	m	s	m	f	0	1	0	0	1	0	
+B3	29	el	pospolo-a	pospolo	pospolo	a	1	o	f	3	cerilla	match	m	s	m	f	0	1	0	0	1	0	
+B3	30	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+B3	31	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+B3	32	el	galtza	galtza	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+B4	1	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+B4	2	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+B4	3	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+B4	4	la	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B4	5	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	0	
+B4	6	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B4	7	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+B4	8	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+B4	9	el	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	m	s	m	f	0	1	0	0	1	1	*
+B4	10	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	1	*
+B4	16	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B4	17	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B4	18	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+B4	19	la	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	f	s	m	f	0	0	1	1	0	0	
+B4	20	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+B4	21	el	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	m	s	m	m	0	1	1	0	1	0	
+B4	22	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+B4	23	el	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	m	s	m	f	0	1	0	0	1	0	
+B4	24	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B4	25	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+B4	26	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B4	27	el	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	m	s	m	m	0	1	1	0	1	0	
+B4	29	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+B4	30	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+B4	31	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+B4	32	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+B4	33	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+B4	34	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B4	35	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+B4	36	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+B4	37	la	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	f	s	m	f	0	0	1	1	0	0	
+B5	1	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+B5	2	la	begi-a	begi	begi	a	1	i	m	2	ojo	eye	f	s	m	f	0	0	1	1	0	0	
+B5	3	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+B5	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B5	5	la	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	f	s	m	m	0	0	0	1	0	0	
+B5	6	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B5	7	la	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	f	s	m	f	0	0	1	1	0	0	
+B5	8	la	moko-a	moko	moko	a	1	o	m	2	pico	beak	f	s	m	f	0	0	1	1	0	0	
+B5	9	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+B5	11	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B5	12	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B5	13	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+B5	14	la	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	f	s	m	m	0	0	0	1	0	0	
+B5	16	la	babarrun	babarrun	babarrun	n	0	n	f	3	alubia	bean	f	s	m	m	1	0	0	1	0	0	
+B5	17	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+B5	18	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+B5	19	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B5	21	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B5	22	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+B5	23	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+B5	24	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	0	
+B5	25	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+B5	27	la	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	f	s	m	f	0	0	1	1	0	0	
+B5	28	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B5	29	la	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	f	s	m	m	1	0	0	1	0	0	
+B5	30	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+B5	32	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+B6	1	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+B6	2	la	begi-a	begi	begi	a	1	i	m	2	ojo	eye	f	s	m	f	0	0	1	1	0	0	
+B6	3	la	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	f	s	m	f	0	0	1	1	0	0	
+B6	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B6	5	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+B6	6	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B6	7	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+B6	8	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+B6	9	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+B6	11	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B6	12	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B6	13	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+B6	14	la	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	f	s	m	f	0	0	1	1	0	0	
+B6	15	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+B6	16	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+B6	17	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+B6	18	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+B6	19	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B6	20	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+B6	21	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B6	22	la	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	f	s	m	f	1	0	1	1	0	0	
+B6	23	la	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	f	s	m	f	0	0	1	1	0	0	
+B6	24	la	beso-a	beso	beso	a	1	o	m	2	brazo	arm	f	s	m	f	0	0	1	1	0	0	
+B6	25	la	haizerrota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+B6	28	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B6	29	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+B6	30	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+B6	32	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+B7	2	el	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	m	s	m	f	0	1	0	0	1	0	
+B7	3	el	begi-a	begi	begi	a	1	i	m	2	ojo	eye	m	s	m	f	1	1	0	0	1	0	
+B7	4	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	0	
+B7	5	el	kipula	tipula	tipula	a	1	a	f	3	cebolla	onion	m	s	f	f	0	0	0	0	1	0	
+B7	6	el	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	m	s	m	f	1	1	0	0	1	0	
+B7	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B7	8	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+B7	9	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+B7	10	el	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	m	s	m	f	0	1	0	0	1	0	
+B7	12	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B7	13	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B7	14	la	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	f	s	m	f	1	0	1	1	0	0	
+B7	15	la	soineko-a	soineko	soineko	a	1	o	m	3	vestido	dress	f	s	m	f	0	0	1	1	0	0	
+B7	16	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+B7	17	el	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	m	s	m	f	0	1	0	0	1	0	
+B7	18	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+B7	19	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+B7	20	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B7	21	el	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	m	s	m	f	0	1	0	0	1	1	*
+B7	22	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	1	*
+B7	23	el	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	m	s	f	f	1	0	0	0	1	0	
+B7	24	el	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	m	s	m	f	0	1	0	0	1	0	
+B7	25	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+B7	26	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+B7	27	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+B7	28	el	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	m	s	m	f	1	1	0	0	1	0	
+B7	29	el	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	m	s	m	f	1	1	0	0	1	0	
+B7	30	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B7	31	la	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	f	s	m	m	1	0	0	1	0	0	
+B7	32	el	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	m	s	m	f	1	1	0	0	1	0	
+B7	33	el	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	m	s	m	f	1	1	0	0	1	0	
+B7	34	el	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	m	s	f	f	1	0	0	0	1	0	
+B8	1	la	hosto-a	hosto	hosto	a	1	o	f	2	hoja	leaf	f	s	m	f	1	0	1	1	0	0	
+B8	2	la	begi-a	begi	begi	a	1	i	m	2	ojo	eye	f	s	m	f	0	0	1	1	0	0	
+B8	3	el	kirten-a	kirten	kirten	a	1	n	m	2	mango	handle	m	s	m	f	1	1	0	0	1	0	
+B8	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B8	5	la	eraztun-a	eraztun	eraztun	a	1	n	m	3	anillo	ring	f	s	m	f	0	0	1	1	0	0	
+B8	6	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B8	7	el	ogi-a	ogi	ogi	a	1	i	m	2	pan	bread	m	s	m	f	1	1	0	0	1	0	
+B8	8	el	moko-a	moko	moko	a	1	o	m	2	pico	beak	m	s	m	f	1	1	0	0	1	0	
+B8	9	la	ilargi-a	ilargi	ilargi	a	1	i	f	3	luna	moon	f	s	m	f	1	0	1	1	0	0	
+B8	10	la	tanta	tanta	tanta	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+B8	11	la	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	f	s	m	f	1	0	1	1	0	0	
+B8	12	la	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	f	s	m	f	1	0	1	1	0	0	
+B8	13	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	0	
+B8	14	la	gona	gona	soineko	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B8	15	la	uda	uda	uda	a	1	a	m	2	verano	summer	f	s	f	f	0	1	1	1	0	0	
+B8	16	la	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	f	s	m	f	1	0	1	1	0	0	
+B8	17	la	belaun-a	belaun	belaun	a	1	n	f	2	rodilla	knee	f	s	m	f	1	0	1	1	0	0	
+B8	18	la	gezi-a	gezi	gezi	a	1	i	f	2	flecha	arrow	f	s	m	f	1	0	1	1	0	0	
+B8	19	el	soineko	soineko	gona	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+B8	20	la	malko-a	malko	malko	a	1	o	f	2	lágrima	tear	f	s	m	f	1	0	1	1	0	0	
+B8	21	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B8	22	el	bekain-a	bekain	bekain	a	1	n	f	2	ceja	eyebrow	m	s	m	f	0	1	0	0	1	0	
+B8	23	el	zubi-a	zubi	zubi	a	1	i	m	2	puente	bridge	m	s	m	f	1	1	0	0	1	0	
+B8	24	el	beso-a	beso	beso	a	1	o	m	2	brazo	arm	m	s	m	f	1	1	0	0	1	0	
+B8	25	la	errota	errota	errota	a	1	a	m	3	molino	mill	f	s	f	f	0	1	1	1	0	0	
+B8	26	la	lepo-a	lepo	lepo	a	1	o	m	2	cuello	neck	f	s	m	f	0	0	1	1	0	0	
+B8	27	el	ezpain-a	ezpain	ezpain	a	1	n	m	2	labio	lip	m	s	m	f	1	1	0	0	1	0	
+B8	28	la	ezti-a	ezti	ezti	a	1	i	f	2	miel	honey	f	s	m	f	1	0	1	1	0	0	
+B8	29	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+B8	30	la	komun-a	komun	komun	a	1	n	m	2	cuarto de baño	toilet	f	s	m	f	0	0	1	1	0	0	
+B8	31	la	eguzki-a	eguzki	eguzki	a	1	i	m	3	sol	sun	f	s	m	f	0	0	1	1	0	0	
+B8	32	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
+B9	1	el	hosto	hosto	hosto	o	0	o	f	2	hoja	leaf	m	s	m	m	0	1	1	0	1	0	
+B9	2	el	begi	begi	begi	i	0	i	m	2	ojo	eye	m	s	m	m	1	1	1	0	1	0	
+B9	3	el	kirten	kirten	kirten	n	0	n	m	2	mango	handle	m	s	m	m	1	1	1	0	1	0	
+B9	4	la	tipula	tipula	tipula	a	1	a	f	3	cebolla	onion	f	s	f	f	1	1	1	1	0	0	
+B9	5	el	eraztun	eraztun	eraztun	n	0	n	m	3	anillo	ring	m	s	m	m	1	1	1	0	1	0	
+B9	7	la	soka	soka	soka	a	1	a	f	2	cuerda	rope	f	s	f	f	1	1	1	1	0	0	
+B9	9	el	ogi	ogi	ogi	i	0	i	m	2	pan	bread	m	s	m	m	1	1	1	0	1	0	
+B9	10	el	moko	moko	moko	o	0	o	m	2	pico	beak	m	s	m	m	1	1	1	0	1	0	
+B9	11	el	ilargi	ilargi	ilargi	i	0	i	f	3	luna	moon	m	s	m	m	0	1	1	0	1	0	
+B9	13	el	euri-a	euri	euri	a	1	i	f	2	lluvia	rain	m	s	m	f	0	1	0	0	1	0	
+B9	14	el	leiho-a	leiho	leiho	a	1	o	f	2	ventana	window	m	s	m	f	0	1	0	0	1	0	
+B9	15	el	txanpon-a	txanpon	txanpon	a	1	n	f	2	moneda	coin	m	s	m	f	0	1	0	0	1	0	
+B9	16	el	soineko	soineko	soineko	o	0	o	m	3	vestido	dress	m	s	m	m	1	1	1	0	1	0	
+B9	17	el	uda	uda	uda	a	1	a	m	2	verano	summer	m	s	f	f	1	0	0	0	1	0	
+B9	18	el	babarrun-a	babarrun	babarrun	a	1	n	f	3	alubia	bean	m	s	m	f	0	1	0	0	1	0	
+B9	19	el	belaun	belaun	belaun	n	0	n	f	2	rodilla	knee	m	s	m	m	0	1	1	0	1	0	
+B9	20	el	gezi	gezi	gezi	i	0	i	f	2	flecha	arrow	m	s	m	m	0	1	1	0	1	0	
+B9	22	la	gona	gona	gona	a	1	a	f	2	falda	skirt	f	s	f	f	1	1	1	1	0	0	
+B9	24	la	tanta	tanta	malko	a	1	a	f	2	gota	drop	f	s	f	f	1	1	1	1	0	0	
+B9	25	la	gazta	gazta	gazta	a	1	a	m	2	queso	cheese	f	s	f	f	0	1	1	1	0	0	
+B9	26	la	bekain	bekain	bekain	n	0	n	f	2	ceja	eyebrow	f	s	m	m	1	0	0	1	0	0	
+B9	27	el	zubi	zubi	zubi	i	0	i	m	2	puente	bridge	m	s	m	m	1	1	1	0	1	0	
+B9	28	el	beso	beso	beso	o	0	o	m	2	brazo	arm	m	s	m	m	1	1	1	0	1	0	
+B9	29	el	errota	errota	errota	a	1	a	m	3	molino	mill	m	s	f	f	1	0	0	0	1	0	
+B9	30	el	lepo	lepo	lepo	o	0	o	m	2	cuello	neck	m	s	m	m	1	1	1	0	1	0	
+B9	31	el	ezpain	ezpain	ezpain	n	0	n	m	2	labio	lip	m	s	m	m	1	1	1	0	1	0	
+B9	32	el	ezti	ezti	ezti	i	0	i	f	2	miel	honey	m	s	m	m	0	1	1	0	1	0	
+B9	33	el	pospolo	pospolo	pospolo	o	0	o	f	3	cerilla	match	m	s	m	m	0	1	1	0	1	0	
+B9	34	el	komun	komun	komun	n	0	n	m	2	cuarto de baño	toilet	m	s	m	m	1	1	1	0	1	0	
+B9	35	el	eguzki	eguzki	eguzki	i	0	i	m	3	sol	sun	m	s	m	m	1	1	1	0	1	0	
+B9	36	la	praka	praka	galtza	a	1	a	m	2	pantalón	trouser	f	s	f	f	0	1	1	1	0	0	
