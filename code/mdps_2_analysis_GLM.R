@@ -128,3 +128,6 @@ blme.m1 <- blme::bglmer(detGender ~ es.gender + noun.end + root.end +
 summary(blme.m1)
 performance::r2(blme.m1)
 
+
+
+

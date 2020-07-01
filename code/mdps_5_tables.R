@@ -223,3 +223,41 @@ blme.m1 %>%
   print_model %>% 
   hline(i = c(1,2,5,8,12), border = std_border)
 
+#-------------------------------------------------------------------------------
+# Within-participant analyses
+#-------------------------------------------------------------------------------
+
+# (...)
+
+#-------------------------------------------------------------------------------
+# extra
+#-------------------------------------------------------------------------------
+
+d %>% 
+  filter(root.end != 'a',
+         noun.end == 'a') %>% 
+  combi_props(detGender)
+
+d %>% 
+  filter(root.end != 'a',
+         noun.end == 'a') %>% 
+  combi_props(detGender, L1_S)
+
+d %>% 
+  combi_props(analogical, es.gender)
+
+d %>% 
+  combi_props(analogical, detGender)
+
+d %>% 
+  filter(root.end != 'a') %>% 
+  combi_props(last_a, L1_S)
+
+glm_m2 <- glmer(last_a ~ L1_S + (1|participant),
+                  data=filter(d, root.end != 'a'),
+                  family=binomial,
+                  control=glmerControl(optimizer='bobyqa'))
+
+summary(glm_m2)
+
+
