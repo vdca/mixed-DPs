@@ -1,4 +1,4 @@
-new_id	participant	role	style	age	L1	home	AoA L2	dominant	area	B learnt where?	Sp learnt where?	SR COMPET (B)	SR COMPET (S)	EGA OR SIMILAR?	codesw_familiar	codesw_use	codesw_attitude	L1_B	L1_S	dominant_B	dominant_S	Spanish as L1?	cs_use	cs_attitude	simultaneous	consecu.id.bil
+new_id	participant	role	style	age	L1	home	AoA L2	language_ease	area	B learnt where?	Sp learnt where?	SR COMPET (B)	SR COMPET (S)	EGA OR SIMILAR?	codesw_familiar	codesw_use	codesw_attitude	L1_B	L1_S	easiest_B	easiest_S	Spanish as L1?	cs_use	cs_attitude	simultaneous	consecu.id.bil
 1	1	director	discourse	30	S	S	4	SB	Iruñerria	school	home	5	5	Yes	NA	hardly ever	Bad	0	1	1	1	yes	0.25	0		1
 2	2	matcher	discourse (at the end list)	23	S	S	4	S	Iruñerria	school	home	4	5	No?	NA	hardly ever	bad	0	1	0	1	yes	0.25	0		2
 3	3	director	discourse	35	SB	SB	NA	SB	Iruñerria	home	home	5	5	Yes	NA	hardly ever	IDK	1	1	1	1	yes	0.25	NA	*	3*
