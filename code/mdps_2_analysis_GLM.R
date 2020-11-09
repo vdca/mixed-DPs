@@ -40,6 +40,19 @@ phon.glm1 <- d %>%
 summary(phon.glm1)
 performance::r2(phon.glm1)
 
+# analysis 1b:
+# include random slopes?
+# no; doing so results in singular fit (evidence of overfitting);
+# the data does not support such a complex model.
+
+phon.glm1b <- d %>%
+  glmer(detGender ~ es.gender + noun.end + root.end +
+          (es.gender + noun.end + root.end|participant), ., family = 'binomial',
+        control=glmerControl(optimizer="bobyqa"))
+
+summary(phon.glm1b)
+isSingular(phon.glm1b)
+
 # likelihood ratio tests:
 # test each cue by comparing full model to model with relevant cue removed.
 
@@ -104,7 +117,6 @@ detgen.full <- readRDS('../data/detgenfull_model.rds')
 #                         L1_S and noun.end (less phonological if L1_S)
 
 detgen.full$final.call
-detgen.full$model %>% summary()
 
 # this model has a 'complete separation' problem, which causes convergence issues.
 #   see: https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html#penalizationhandling-complete-separation
@@ -127,7 +139,5 @@ blme.m1 <- blme::bglmer(detGender ~ es.gender + noun.end + root.end +
                         control=glmerControl(optimizer='bobyqa'))
 summary(blme.m1)
 performance::r2(blme.m1)
-
-
 
 
