@@ -53,8 +53,8 @@ byparticipant <- d %>%
 #-------------------------------------------------------------------------------
 
 # more readable L1_S labels
-facetL1 <- c('0' = 'Spanish = L2',
-             '1' = 'Spanish = L1')
+facetL1 <- c('0' = 'Spanish as L2',
+             '1' = 'Spanish as L1')
 
 #' ### Frequency of analogy ~ L1_S + % of S_speakers in population (add symbol for bilinguals)
 set.seed(3)
